@@ -2,12 +2,12 @@
 
 <div align="center">
 
-**A comprehensive IoT-powered home automation system with AI ML integrations, intelligent sensors, real-time monitoring, and seamless control.**
-
 ![Platform](https://img.shields.io/badge/Platform-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-Blynk-23C48E?style=for-the-badge&logo=blynk&logoColor=white)
 ![Project Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
+
+**A comprehensive IoT-powered home automation system with AI ML integrations, intelligent sensors, real-time monitoring, and seamless control.**
 
 [Features](#-features) • [Hardware](#-hardware-requirements) • [Installation](#-installation) • [Usage](#-usage) • [Dashboard](#-dashboard)
 
@@ -206,12 +206,6 @@ Contributions are welcome! Feel free to:
 3. Commit changes (`git commit -m 'Add AmazingFeature'`)
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
