@@ -2,12 +2,12 @@
 
 <div align="center">
 
-![Project Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
+**A comprehensive IoT-powered home automation system with AI ML integrations, intelligent sensors, real-time monitoring, and seamless control.**
+
 ![Platform](https://img.shields.io/badge/Platform-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-Blynk-23C48E?style=for-the-badge&logo=blynk&logoColor=white)
-
-**A comprehensive IoT-powered home automation system with intelligent sensors, real-time monitoring, and seamless control.**
+![Project Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
 
 [Features](#-features) • [Hardware](#-hardware-requirements) • [Installation](#-installation) • [Usage](#-usage) • [Dashboard](#-dashboard)
 
